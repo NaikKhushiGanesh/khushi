@@ -48,41 +48,49 @@
 name: Naik Khushi Ganesh
 role: Computer Science & AIML Student
 location: India, Karnataka
-🚀 Current Focus
-☕ Java + Data Structures & Algorithms
-🌐 Full Stack Development
-☁️ AWS Cloud Computing
-🗄️ SQL & Database Management
-🤖 AI • Machine Learning
-🐳 DevOps Fundamentals
-💻 Problem Solving & Coding
-🚀 Tech Stack
-<table width="100%"> <tr> <td width="25%" valign="top">
-💻 Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark&perline=3"/>
 
-<br><br>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </p> </td> <td width="25%" valign="top">
-🌐 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=3"/> </p> </td> <td width="25%" valign="top">
-⚙️ Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2"/> </p> </td> <td width="25%" valign="top">
-☁️ Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
+## 🚀 Current Focus
 
-<br><br>
+<table align="center">
+<tr>
 
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> </p> </td> </tr> <tr> <td width="25%" valign="top">
-🗄️ Database
-<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=2"/> </p> </td> <td width="25%" valign="top">
-🛠️ Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4"/> </p> </td> <td width="25%" valign="top">
-🤖 AI / ML
-<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/> <br> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/> </p> </td> <td width="25%" valign="top">
-💡 Core Skills
-<p align="center"> <img src="https://img.shields.io/badge/OOP-Concepts-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/DSA-Learning-7C3AED?style=flat-square"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="45"/><br>
+<b>Java + DSA</b>
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="45"/><br>
+<b>Full Stack</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="45"/><br>
+<b>AWS Cloud</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>
+<b>SQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>
+<b>AI / ML</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="45"/><br>
+<b>DevOps</b>
+</td>
+
+<td align="center">
+💻<br>
+<b>Problem Solving</b>
+</td>
+
+</tr>
+</table>
 
 <img src="https://img.shields.io/badge/DBMS-SQL-4479A1?style=flat-square"/> </p> </td> </tr> </table> ```
