@@ -44,10 +44,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=58A6FF&width=600&lines=Computer+Science+%26+AIML+Student;Full+Stack+Developer;Java+%26+DSA+Learner;Python+Developer;AWS+Cloud+Learner;AI+%26+Machine+Learning+Enthusiast"/>
 </p>
 
-```yaml
-name: Naik Khushi Ganesh
-role: Computer Science & AIML Student
-location: India, Karnataka
 
 
 ## 🚀 Current Focus
@@ -93,4 +89,10 @@ location: India, Karnataka
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/DBMS-SQL-4479A1?style=flat-square"/> </p> </td> </tr> </table> ```
+<img src="https://img.shields.io/badge/DBMS-SQL-4479A1?style=flat-square"/> </p> </td> </tr> </table>
+
+```yaml
+name: Naik Khushi Ganesh
+role: Computer Science & AIML Student
+location: India, Karnataka
+
